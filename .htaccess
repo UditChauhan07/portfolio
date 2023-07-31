@@ -1,0 +1,2 @@
+RewriteCond %{REQUEST_URI} ^/checkout$
+RewriteRule ^/checkout$ https://uditstore-4083.myshopify.com/checkout [L]
